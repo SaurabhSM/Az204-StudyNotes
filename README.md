@@ -12,7 +12,7 @@ This document is my study plan and study notes about Microsoft Azure Developer C
 
 - [Provision VMs.](compute_solution/Impletement_Iaas_Solution/provision_vm.md)
 - [Create ARM Templates.](compute_solution/Impletement_Iaas_Solution/arm_template.md)
-- Create Container image for solution.
+- [Create Container image for solution.](compute_solution/Impletement_Iaas_Solution/create_container_image.md)
 - Publish an image to Azure Container Registry.
 - Run containers by using Azure Container Instance.
 
